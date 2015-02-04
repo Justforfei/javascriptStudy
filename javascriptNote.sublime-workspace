@@ -1,0 +1,933 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"html"
+			],
+			[
+				"pos",
+				"postData"
+			],
+			[
+				"mod",
+				"mod-test	mod-test"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"in",
+				"infinite"
+			],
+			[
+				"bsha",
+				"bxsh-ra	box-shadow: ${1:inset }${2:h} ${3:v} ${4:blur} ${5:spread }rgba(${6:0}, ${7:0}, ${8:0}, .${9:5});"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"rotate",
+				"rotateIn"
+			],
+			[
+				"sc",
+				"scale"
+			],
+			[
+				"appear",
+				"appearInUp"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"f",
+				"font"
+			],
+			[
+				"adiar",
+				"animdir-a	animation-direction: alternate;"
+			],
+			[
+				"bg",
+				"bg+	background: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"bdrad",
+				"border-radius:   (property)"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"comp",
+				"comp-btn-ico	comp-btn-ico"
+			],
+			[
+				"bb",
+				"border-bottom"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"v",
+				"v-v	visibility: visible;"
+			],
+			[
+				"font",
+				"font-01"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"tran",
+				"translateY"
+			],
+			[
+				"mod-",
+				"mod-nor	mod-nor"
+			],
+			[
+				"tx",
+				"text-indent"
+			],
+			[
+				"comp-btn",
+				"comp-btn-nor	comp-btn-nor"
+			],
+			[
+				"rea",
+				"no-repeat"
+			],
+			[
+				"comp-bn",
+				"comp-btn-ico	comp-btn-ico"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"req",
+				"requestHandlers"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"reset",
+				"reset-nor	css-rest-nor"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"comp-t",
+				"comp-title-nor-html	comp-title-nor-html"
+			],
+			[
+				"comp-b",
+				"comp-boxlist-pic	comp-boxlist-pic"
+			],
+			[
+				"comp-box",
+				"comp-boxlist-pic-html	comp-boxlist-pic-html"
+			],
+			[
+				"comp-tit",
+				"comp-title-nor-html	comp-title-nor-html"
+			],
+			[
+				"comp-titl",
+				"comp-title-nor-html	comp-title-nor-html"
+			],
+			[
+				"comp-title",
+				"comp-title-nor	comp-title-nor"
+			],
+			[
+				"comp-title-n",
+				"comp-title-nor-html	comp-title-nor-html"
+			],
+			[
+				"com",
+				"com-boxlist-event	com-boxlist-event"
+			],
+			[
+				"comp-bo",
+				"comp-boxlist	comp-boxlist"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"mr",
+				"mr-a	margin-right: auto;"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/myCmd.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"tagcss",
+				"Tag: Get CSS Classes"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remover",
+				"Tag: Remove All Attributes From Tags in Document"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ctag",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"cssb",
+				"Run CSScomb"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"clip",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Add Repository"
+			],
+			[
+				"git",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"repository",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 343.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ctags -R -f .tags",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/NOTE-Javascript"
+	],
+	"file_history":
+	[
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/项目/有钱首页-无整合版/index.html",
+		"/C/Users/admin/nodejs/designGame/mywebapp/index.html",
+		"/C/Users/admin/nodejs/my/requestHandlers.js",
+		"/C/Users/admin/nodejs/designGame/mywebapp/requestHandlers.js",
+		"/C/Users/admin/nodejs/designGame/mywebapp/router.js",
+		"/C/Users/admin/nodejs/my/router.js",
+		"/C/Users/admin/nodejs/my/server.js",
+		"/C/Users/admin/nodejs/my/app.js",
+		"//192.168.16.189/部门/设计部/需求设计稿/看看事业部需求/重构/片库页面/片库V5/首页/js/common.js",
+		"/C/Users/admin/nodejs/my/package.json",
+		"/C/Users/admin/nodejs/my/index.js",
+		"/C/Users/admin/nodejs/my/route.js",
+		"/E/cssTEST/迅雷影音官网/index.html",
+		"//192.168.16.189/部门/设计部/需求设计稿/Z赵宣杰/工作/项目/迅雷水晶/水晶矿场/宝箱/css/style.css",
+		"/E/cssTEST/迅雷影音官网/css/css.css",
+		"//192.168.16.189/部门/设计部/需求设计稿/Z赵宣杰/工作/2015/会员/百度第5期页面-15-01-20/css/css.css",
+		"//192.168.16.189/部门/设计部/需求设计稿/Z赵宣杰/工作/2015/会员/百度第5期页面-15-01-20/index.htm",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2015/会员事业部-迅雷理财/01.19——迅雷理财推广页面设计改版/index.html",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/12.29——迅雷理财推广页面/index.html",
+		"//192.168.16.189/部门/设计部/需求设计稿/看看事业部需求/重构/片库页面/片库V5/首页/index.html",
+		"//192.168.16.189/部门/设计部/需求设计稿/看看事业部需求/重构/片库页面/片库V5/首页/css/style.css",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2015/牛叉页游/01.15——奇迹归来首服预约/css/style.css",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2015/牛叉页游/01.15——奇迹归来首服预约/index.html",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2015/牛叉页游/01.15——战天首服预约/index.html",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2015/牛叉页游/01.15——战天首服预约/css/style.css",
+		"/E/cssTEST/ml-.html",
+		"/C/emmet/test.css",
+		"/C/emmet/snippets.json",
+		"/C/Users/admin/Desktop/common/template/pop弹窗/index.html",
+		"/C/Users/admin/Desktop/common/template/pop弹窗/css/style.css",
+		"/C/Users/admin/Desktop/common/template/商城专题页——左中(上下)右/css/style.css",
+		"/C/Users/admin/Desktop/common/template/商城专题页——左中(上下)右/index.html",
+		"/C/Users/admin/Desktop/common/template/会员专题页——左中(上下)右/index.html",
+		"/C/Users/admin/Desktop/common/template/会员专题页——左中(上下)右/css/style.css",
+		"/C/Users/admin/Desktop/common/template/网游加速器专题页/css/style.css",
+		"/C/Users/admin/Desktop/common/template/牛叉页游专题页——左中(上下)右/css/style.css",
+		"/C/Users/admin/Desktop/common/template/牛叉页游专题页——左中(上下)右/index.html",
+		"/C/Users/admin/Desktop/common/template/网游加速器专题页——左中(上下)右/index.html",
+		"/C/Users/admin/Desktop/common/template/网游加速器专题页——左中(上下)右/css/style.css",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/C/Users/admin/Desktop/common/template/牛叉金钻页游专题页——左中(上下)右/index.html",
+		"/C/Users/admin/Desktop/common/template/牛叉金钻页游专题页——左中(上下)右/css/style.css",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/demo/template/css/template.css",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/demo/template/template.html",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/demo/template/js/DD_PNG_min.js",
+		"/C/Users/admin/Desktop/login_page_files/saved_resource.html",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/11.27——会员中心登录框重构/login.html",
+		"/C/Users/admin/Desktop/login_page_files/css/iframe.css",
+		"/C/Users/admin/Desktop/login_page_files/css/parent.css",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/项目/有钱-无整合版/css/css.css",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/项目/有钱-无整合版/index.html",
+		"/D/mypy.py",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/myCmd.sublime-build",
+		"/C/Program Files/Sublime Text 3/sublime_plugin.py",
+		"/C/Users/admin/Desktop/common/cool/yao.css",
+		"/C/Users/admin/Desktop/common/cool/compont-plus.css",
+		"/C/Users/admin/Desktop/common/cool/pure.css",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_2_11.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_2_10.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_2_1.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_2_0.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_9.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_8.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_7.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_6.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_5.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_4.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_2.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_17.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_16.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_15.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_14.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_13.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_12.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_11.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_10.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_0.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_0_0.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_9.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_8.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_7.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_6.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_5.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_4.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_34.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_33.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_32.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_31.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_30.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_3.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_29.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_28.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_27.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_26.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_25.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_24.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_23.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_22.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_21.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_20.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_2.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_19.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_18.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_17.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_16.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_15.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_14.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_13.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_12.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_11.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_10.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_1.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/liao.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/index_115.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/index.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/helper.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/google055c947ffacaa00c.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/games.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/exchange.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/desktop.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/cha.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/carinner.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/business.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/bdunion.txt",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/award.html",
+		"/D/工作内容/项目——12.08——快赚官网/web端/exchange.html",
+		"/D/工作内容/项目——12.08——快赚官网/web端/kz_footer.html",
+		"/D/工作内容/项目——12.08——快赚官网/web端/pop.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pathname",
+			"MIME",
+			"\">",
+			"js/",
+			">\n",
+			"css/",
+			"image/",
+			"js/",
+			"js/j",
+			"image/",
+			"link",
+			"css/",
+			"//",
+			"footer",
+			"'",
+			"' ",
+			"'",
+			"start",
+			"postData",
+			"){",
+			"start;]",
+			"=",
+			"start",
+			"requestHandlers",
+			"start",
+			"route",
+			"server",
+			"onRequest",
+			"step",
+			"spr.p",
+			"focus",
+			".benefit_item .benefit_pic",
+			"right",
+			"head_side",
+			"head_main",
+			"div",
+			"hid_txt",
+			"ef=\"#\"",
+			"官方微博",
+			"clear_fixed",
+			"jpg",
+			"bg",
+			"rgb",
+			"rgba",
+			"rgba\\",
+			"DXImageTransform",
+			"filter",
+			"ie",
+			"IE",
+			"ie",
+			"IE",
+			"ie",
+			"IE",
+			"ie",
+			"IE",
+			"ie",
+			"filter",
+			"bgp",
+			"position",
+			"border",
+			"1",
+			"title",
+			"info",
+			"{}",
+			"了解我的特权",
+			"handle",
+			"info_",
+			"pop_",
+			"-",
+			"txt",
+			"000",
+			"1000",
+			"sys_footer",
+			"960",
+			"footer",
+			"1000",
+			"sys_footer",
+			"H1",
+			".sys-top .header h1",
+			"Location",
+			"0.3",
+			"state-error",
+			"state-load",
+			"state",
+			"list-item",
+			".task-sec .list-item li",
+			"87",
+			"v2",
+			"30px",
+			"87",
+			"46",
+			".link-sign",
+			"461",
+			".link-sign",
+			".record-pop .cont-info li",
+			"v0.3",
+			"体现",
+			"cash_comfirm",
+			"jenson",
+			"fare_share",
+			"提现到支付宝",
+			"no_btn-handle",
+			"done",
+			"v0.3",
+			"京东30元购物E卡",
+			"KLUDS308LKJSDF",
+			"京东",
+			"99999",
+			"9999",
+			"99999",
+			"9999",
+			"pop",
+			".subban-cont",
+			"565px",
+			"pic-hline",
+			"vertical-align: -1px;",
+			".pic-hline",
+			".subban",
+			".pic-hline{",
+			"off",
+			"offed",
+			"off",
+			"240",
+			":240",
+			"172",
+			"8px",
+			"ico-tri-t,",
+			".txt-warn{font-size: 18"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"0e4a2f",
+			"r0color",
+			"v",
+			"						\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "E:\\NOTE-Javascript"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 166.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"req",
+				"mywebapp\\requestHandlers.js"
+			],
+			[
+				"ro",
+				"mywebapp\\router.js"
+			],
+			[
+				"ser",
+				"mywebapp\\server.js"
+			],
+			[
+				"app",
+				"mywebapp\\app.js"
+			],
+			[
+				"inde",
+				"my\\index.js"
+			],
+			[
+				"css",
+				"css\\css.css"
+			],
+			[
+				"s",
+				"css\\style.css"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"st",
+				"css\\style.css"
+			],
+			[
+				"cs",
+				"css\\template.css"
+			],
+			[
+				"t",
+				"template.html"
+			],
+			[
+				"sac",
+				"saved_resource.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\workspace\\tmp2.sublime-workspace"
+			],
+			[
+				"d",
+				"D:\\workspace\\dlocal.sublime-workspace"
+			],
+			[
+				"te",
+				"D:\\workspace\\test.sublime-workspace"
+			],
+			[
+				"p",
+				"D:\\工作内容\\项目——迅雷影音\\project-xlPlayer.sublime-workspace"
+			],
+			[
+				"pro",
+				"D:\\工作内容\\项目——迅雷影音\\project-xlPlayer.sublime-workspace"
+			],
+			[
+				"t2",
+				"D:\\workspace\\tmp2.sublime-workspace"
+			],
+			[
+				"tm2",
+				"D:\\workspace\\tmp2.sublime-workspace"
+			],
+			[
+				"tes",
+				"D:\\workspace\\test.sublime-workspace"
+			],
+			[
+				"com",
+				"D:\\workspace\\common.sublime-workspace"
+			],
+			[
+				"tp2",
+				"D:\\workspace\\tmp2.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
